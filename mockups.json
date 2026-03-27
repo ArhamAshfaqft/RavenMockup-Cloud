@@ -3,5 +3,12 @@
     "name": "Test-shirt",
     "category": "T-Shirts",
     "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RapidMockup-Cloud/main/test-shirt.png"
+  },
+  {
+    "name": "Testing testing",
+    "category": "Testing",
+    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RapidMockup-Cloud/main/tshirt_urban_streetwear_faceless_model.png",
+    "thumb": "https://raw.githubusercontent.com/ArhamAshfaqft/RapidMockup-Cloud/main/tshirt_urban_streetwear_faceless_model_thumb.jpg",
+    "uploadedAt": "2026-03-27T14:09:57.668Z"
   }
 ]
