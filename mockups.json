@@ -1,10 +1,5 @@
 [
   {
-    "name": "Test Shirt",
-    "category": "T-Shirts",
-    "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RapidMockup-Cloud/main/Image_fx.png"
-  },
-  {
     "name": "Test-shirt",
     "category": "T-Shirts",
     "file": "https://raw.githubusercontent.com/ArhamAshfaqft/RapidMockup-Cloud/main/test-shirt.png"
